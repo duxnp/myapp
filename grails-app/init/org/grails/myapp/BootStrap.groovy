@@ -1,4 +1,4 @@
-package myapp
+package org.grails.myapp
 
 import groovy.transform.CompileStatic
 

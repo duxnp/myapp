@@ -1,9 +1,9 @@
-package myapp
+package org.grails.myapp
 
 import grails.testing.gorm.DomainUnitTest
 import spock.lang.Specification
 
-class MakeSpec extends Specification implements DomainUnitTest<Make> {
+class VehicleSpec extends Specification implements DomainUnitTest<Vehicle> {
 
     def setup() {
     }

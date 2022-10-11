@@ -1,4 +1,4 @@
-package myapp
+package org.grails.myapp
 
 import grails.testing.gorm.DomainUnitTest
 import spock.lang.Specification

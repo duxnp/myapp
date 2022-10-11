@@ -1,4 +1,4 @@
-<%@ page import="myapp.Vehicle" %>
+<%@ page import="org.grails.myapp.Vehicle" %>
 <html>
 <head>
     <meta name="layout" content="public"/>
